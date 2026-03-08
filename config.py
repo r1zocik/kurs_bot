@@ -1,0 +1,2 @@
+BOT_TOKEN = "7057303701:AAEhQrv4P6ITEx78LcRolnFtf-TfgyMGaCM"
+DB_PATH = "users.db"
